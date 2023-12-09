@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "@lfreneda/eh-dia-util": "^1.3.0"
+    "@lfreneda/eh-dia-util": "^1.3.0",
+    "date-fns": "^2.30.0",
+    "dayjs": "^1.11.10"
   },
   "name": "date-go",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
